@@ -9,5 +9,6 @@ public class Main {
     public static void main(String[] args) {
         //게임 실행을 위한 객체 생성
         new DynamicBeat();
+
     }
 }
