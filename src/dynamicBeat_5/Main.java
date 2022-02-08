@@ -10,5 +10,6 @@ public class Main {
         //게임 실행을 위한 객체 생성
         new DynamicBeat();
 
+
     }
 }
